@@ -1,4 +1,4 @@
 # NewsApp
 
-
-SwiftUI with MVVM design pattern.
+- used api from "newsapi.org" with generatedKey.
+- SwiftUI with MVVM design pattern.
